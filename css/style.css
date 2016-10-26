@@ -1,0 +1,103 @@
+.header {
+  background-color: black;
+}
+
+.hdr-txt {
+  color: white;
+  padding-left: 50px;
+}
+
+.hero {
+  background-color: teal;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.hero-title {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.hero-txt {
+  color: white;
+  text-align: center;
+}
+
+.mainbody {
+  max-width: 950px;
+}
+
+.container-title {
+  color: black;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.features h3, .features p {
+  text-align: center;
+}
+
+.images {
+  display: block;
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+}
+
+.features a {
+  display: inherit;
+  text-align: center;
+  color: teal;
+  text-decoration: underline;
+}
+
+.projects {
+  height: 200px;
+  width: 100%;
+  /*background-color: lightgrey;*/
+  background-image: url(../images/lighthouse.jpg);
+  background-size: cover;
+  outline: .2px solid silver;
+  outline-offset: 5px;
+}
+
+.proj-row2 {
+  padding-top: 20px;
+}
+
+.contact {
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  background-color: black;
+}
+
+.footer p {
+  color: grey;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer-cols p {
+  display: inline-block;
+}
+
+.footericon {
+  height: 30px;
+  width: 30px;
+}
+
+.footer-cols {
+  text-align: center;
+}
